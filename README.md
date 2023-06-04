@@ -1,5 +1,5 @@
 # Intergalactic PioNEARing with Axelar
-Winner of OlympiHacks 2023 ($2000USD)
+Winner of OlympiHacks 2023 ($2000USD) - https://www.linkedin.com/feed/update/urn:li:activity:7066594621870551040/
 
 ![](https://github.com/AdnanSlef/Nearly-Intergalactic-Axelar/blob/main/passport.gif?raw=true)
 
